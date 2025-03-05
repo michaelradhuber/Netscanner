@@ -59,6 +59,3 @@ This library is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
-
-## Credits
-This library has been developed based on some code by [agentzex](https://github.com/agentzex/ESP_network_ip_scanner)
